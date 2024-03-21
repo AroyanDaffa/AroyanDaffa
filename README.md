@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Aroyan Daffa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I Like Watch Anime
+# Project Name
 
-<!---
-AroyanDaffa/AroyanDaffa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Brief description of the project.
+
+## Contributors
+
+- [Your Name](link-to-your-profile): Brief bio or description of your role in the project.
+
+## About Me
+
+- **Name:** Your Name
+- **Location:** Your Location
+- **Bio:** Brief bio or description about yourself.
+- **GitHub:** [Your GitHub Profile](link-to-your-profile)
+- **LinkedIn:** [Your LinkedIn Profile](link-to-your-profile)
