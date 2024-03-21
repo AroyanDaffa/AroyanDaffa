@@ -8,8 +8,8 @@ Brief description of the project.
 
 ## About Me
 
-- **Name:** Your Name
-- **Location:** Your Location
+- **Name:** Aroyan Daffa Putra Wahyudi
+- **Location:** Cepu,Jawa Tengah
 - **Bio:** Brief bio or description about yourself.
 - **GitHub:** [Your GitHub Profile](link-to-your-profile)
 - **LinkedIn:** [Your LinkedIn Profile](link-to-your-profile)
